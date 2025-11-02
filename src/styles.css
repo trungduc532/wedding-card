@@ -1,0 +1,4 @@
+body { background: #fff7f0; color:#333; }
+.card{ background: white; border-radius:12px; padding:20px; box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
+button{ padding:8px 12px; border-radius:8px; border:none; cursor:pointer; }
+input, textarea{ padding:8px; border-radius:6px; border:1px solid #ddd; width:100%; box-sizing:border-box; }
